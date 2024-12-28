@@ -1,6 +1,6 @@
 ## Hi there, my name is Emily!
 
-I'm a final year computer science student at McGill University looking to explore the tech sphere, specifically in fullstack development, product design, natural language processing, and product management. 
+I'm a final year computer science student at McGill University looking to explore the tech sphere, specifically in fullstack development, product design, natural language processing, and project management. 
 
 
 
