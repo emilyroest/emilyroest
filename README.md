@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+My name is Emily and I'm a final year computer science student at McGill University in Montreal, QC.
+
 <!--
 **emilyroest/emilyroest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
