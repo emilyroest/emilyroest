@@ -1,6 +1,6 @@
 ## Hi there, my name is Emily!
 
-I'm a computer science graaduate from McGill University looking to explore the tech sphere!
+I'm a computer science graduate from McGill University looking to explore the tech sphere!
 
 
 
